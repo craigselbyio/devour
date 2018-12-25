@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/devour/static/js/runtime~main.656d6dfc.js"
   },
   {
-    "revision": "08eb9049e4833094f927",
-    "url": "/devour/static/js/main.08eb9049.chunk.js"
+    "revision": "7fb5852bf5dd9de50b11",
+    "url": "/devour/static/js/main.7fb5852b.chunk.js"
   },
   {
     "revision": "62d8ccf9ea270606c305",
     "url": "/devour/static/js/1.62d8ccf9.chunk.js"
   },
   {
-    "revision": "08eb9049e4833094f927",
-    "url": "/devour/static/css/main.93de6b3f.chunk.css"
+    "revision": "7fb5852bf5dd9de50b11",
+    "url": "/devour/static/css/main.6c29148b.chunk.css"
   },
   {
-    "revision": "4312a7f2b2632fb5cccb10e679543bab",
+    "revision": "ee0020c21009aced615e93371b6918e5",
     "url": "/devour/index.html"
   }
 ];

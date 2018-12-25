@@ -1,15 +1,15 @@
 {
-  "main.css": "/devour/static/css/main.93de6b3f.chunk.css",
-  "main.js": "/devour/static/js/main.08eb9049.chunk.js",
-  "main.js.map": "/devour/static/js/main.08eb9049.chunk.js.map",
+  "main.css": "/devour/static/css/main.6c29148b.chunk.css",
+  "main.js": "/devour/static/js/main.7fb5852b.chunk.js",
+  "main.js.map": "/devour/static/js/main.7fb5852b.chunk.js.map",
   "static/js/1.62d8ccf9.chunk.js": "/devour/static/js/1.62d8ccf9.chunk.js",
   "static/js/1.62d8ccf9.chunk.js.map": "/devour/static/js/1.62d8ccf9.chunk.js.map",
   "runtime~main.js": "/devour/static/js/runtime~main.656d6dfc.js",
   "runtime~main.js.map": "/devour/static/js/runtime~main.656d6dfc.js.map",
-  "static/css/main.93de6b3f.chunk.css.map": "/devour/static/css/main.93de6b3f.chunk.css.map",
+  "static/css/main.6c29148b.chunk.css.map": "/devour/static/css/main.6c29148b.chunk.css.map",
   "static/media/Business.css": "/devour/static/media/star.2f958964.svg",
   "static/media/SearchBar.css": "/devour/static/media/background_search_mobile.b0fddbc5.jpg",
   "index.html": "/devour/index.html",
-  "precache-manifest.8775155e484607165ba627366eaf7708.js": "/devour/precache-manifest.8775155e484607165ba627366eaf7708.js",
+  "precache-manifest.4d7541756cafbb1579e54b56799b53ff.js": "/devour/precache-manifest.4d7541756cafbb1579e54b56799b53ff.js",
   "service-worker.js": "/devour/service-worker.js"
 }
