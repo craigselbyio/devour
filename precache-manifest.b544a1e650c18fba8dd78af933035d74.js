@@ -1,5 +1,9 @@
 self.__precacheManifest = [
   {
+    "revision": "f9419ca7aa93f94c38bdf8abb4def2d5",
+    "url": "/devour/static/media/devour-logo.f9419ca7.png"
+  },
+  {
     "revision": "b0fddbc5967e4c7ebcd0958a96973449",
     "url": "/devour/static/media/background_search_mobile.b0fddbc5.jpg"
   },
@@ -12,19 +16,19 @@ self.__precacheManifest = [
     "url": "/devour/static/js/runtime~main.656d6dfc.js"
   },
   {
-    "revision": "b03a76702ab4b203e55e",
-    "url": "/devour/static/js/main.b03a7670.chunk.js"
+    "revision": "99722fad4139ae548ef7",
+    "url": "/devour/static/js/main.99722fad.chunk.js"
   },
   {
     "revision": "62d8ccf9ea270606c305",
     "url": "/devour/static/js/1.62d8ccf9.chunk.js"
   },
   {
-    "revision": "b03a76702ab4b203e55e",
-    "url": "/devour/static/css/main.01927a90.chunk.css"
+    "revision": "99722fad4139ae548ef7",
+    "url": "/devour/static/css/main.7a7b3034.chunk.css"
   },
   {
-    "revision": "451e4fbd6dbb1d07ff73bcf55da2813f",
+    "revision": "4e9827630886486e1ed7990632f80e33",
     "url": "/devour/index.html"
   }
 ];
