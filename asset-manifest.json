@@ -1,14 +1,14 @@
 {
-  "main.css": "/devour/static/css/main.7a7b3034.chunk.css",
-  "main.js": "/devour/static/js/main.99722fad.chunk.js",
-  "main.js.map": "/devour/static/js/main.99722fad.chunk.js.map",
+  "main.css": "/devour/static/css/main.59309eee.chunk.css",
+  "main.js": "/devour/static/js/main.58fbf9f9.chunk.js",
+  "main.js.map": "/devour/static/js/main.58fbf9f9.chunk.js.map",
   "static/js/1.62d8ccf9.chunk.js": "/devour/static/js/1.62d8ccf9.chunk.js",
   "static/js/1.62d8ccf9.chunk.js.map": "/devour/static/js/1.62d8ccf9.chunk.js.map",
   "runtime~main.js": "/devour/static/js/runtime~main.656d6dfc.js",
   "runtime~main.js.map": "/devour/static/js/runtime~main.656d6dfc.js.map",
-  "static/css/main.7a7b3034.chunk.css.map": "/devour/static/css/main.7a7b3034.chunk.css.map",
+  "static/css/main.59309eee.chunk.css.map": "/devour/static/css/main.59309eee.chunk.css.map",
   "static/media/SearchBar.css": "/devour/static/media/background_search_desktop.5890de17.jpg",
   "index.html": "/devour/index.html",
-  "precache-manifest.b544a1e650c18fba8dd78af933035d74.js": "/devour/precache-manifest.b544a1e650c18fba8dd78af933035d74.js",
+  "precache-manifest.a3fec8f9d57eb716ac9290fb1cdcb8e0.js": "/devour/precache-manifest.a3fec8f9d57eb716ac9290fb1cdcb8e0.js",
   "service-worker.js": "/devour/service-worker.js"
 }
